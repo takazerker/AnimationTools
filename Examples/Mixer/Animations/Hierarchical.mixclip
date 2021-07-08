@@ -1,0 +1,38 @@
+{
+    "Loop": true,
+    "Animations": [
+        {
+            "Animation": {
+                "fileID": 7400000,
+                "guid": "829b08dc5cca81c4cbc275de1a95b3dc",
+                "type": 2
+            },
+            "Filter": "",
+            "Path": "A",
+            "MatchTime": false,
+            "CopyEvents": false
+        },
+        {
+            "Animation": {
+                "fileID": 7400000,
+                "guid": "47e1711a191e81741b1831008bc18934",
+                "type": 2
+            },
+            "Filter": "",
+            "Path": "B",
+            "MatchTime": false,
+            "CopyEvents": false
+        },
+        {
+            "Animation": {
+                "fileID": 7400000,
+                "guid": "829b08dc5cca81c4cbc275de1a95b3dc",
+                "type": 2
+            },
+            "Filter": "",
+            "Path": "A/C",
+            "MatchTime": false,
+            "CopyEvents": false
+        }
+    ]
+}

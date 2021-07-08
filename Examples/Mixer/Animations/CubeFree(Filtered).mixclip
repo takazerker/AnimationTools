@@ -1,0 +1,16 @@
+{
+    "Loop": true,
+    "Animations": [
+        {
+            "Animation": {
+                "fileID": 7400000,
+                "guid": "70169c2fb1fd9814094e954bbde817d4",
+                "type": 2
+            },
+            "Filter": "\\.x$",
+            "Path": "",
+            "MatchTime": false,
+            "CopyEvents": false
+        }
+    ]
+}

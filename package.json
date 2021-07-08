@@ -1,0 +1,7 @@
+{
+  "name": "com.takanora.animationtools",
+  "displayName": "Animation Tools",
+  "description": "Set of handy tools to live with Unity nicely.",
+  "version": "0.0.1",
+  "type": "tool"
+}
